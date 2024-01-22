@@ -1,4 +1,7 @@
 # The best for my Android
+## Youtube on Android
+- ReVanced eXtended [GitHub](https://github.com/NoName-exe/revanced-extended)
+  - To remove advertising and unlock features
 ## Artificial intelligence
 - Bing [Play Store](https://play.google.com/store/apps/details?id=com.microsoft.bing)
 ## Browser
