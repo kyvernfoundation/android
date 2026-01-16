@@ -5,7 +5,6 @@
 ## Artificial intelligence 🤖
 - Bing [Play Store](https://play.google.com/store/apps/details?id=com.microsoft.bing)
 ## Browser 🖥️
-- Bing [Play Store](https://play.google.com/store/apps/details?id=com.microsoft.bing)
 - Firefox [Play Store](https://play.google.com/store/apps/dev?id=7083182635971239206) [GitHub](https://github.com/mozilla-mobile/firefox-android)
 ## Security 🛡️
 - Shelter [F-Droid](https://f-droid.org/packages/net.typeblog.shelter/) [GitHub](https://github.com/PeterCxy/Shelter)
