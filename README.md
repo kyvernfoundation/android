@@ -3,7 +3,7 @@
 - ReVanced eXtended [GitHub](https://github.com/NoName-exe/revanced-extended)
   - To remove advertising and unlock features
 ## Artificial intelligence 🤖
-- Bing [Play Store](https://play.google.com/store/apps/details?id=com.microsoft.bing)
+- Le Chat [Play Store](https://play.google.com/store/apps/details?id=ai.mistral.chat)
 ## Browser 🖥️
 - Firefox [Play Store](https://play.google.com/store/apps/dev?id=7083182635971239206) [GitHub](https://github.com/mozilla-mobile/firefox-android)
 ## Security 🛡️
